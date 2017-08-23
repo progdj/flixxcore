@@ -1,0 +1,2 @@
+# flixxcore
+flixxcore_proj
